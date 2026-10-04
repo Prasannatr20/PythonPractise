@@ -8,5 +8,5 @@
 # print(count)
 
 
-num= input("ENter a number: ")
+num= input("Enter a number: ")
 print(len(num))
